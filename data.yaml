@@ -1,0 +1,5 @@
+path: C:/University/Computer vision project/roads_yolo_seg
+train: images/train
+val: images/val
+names:
+  0: Road
